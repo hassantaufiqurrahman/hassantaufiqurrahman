@@ -41,5 +41,3 @@ I'm a **Mathematics graduate** from Universitas Pendidikan Indonesia with strong
 </p>
 
 * **Languages:** Indonesian (Native), English (Intermediate)
-
----
