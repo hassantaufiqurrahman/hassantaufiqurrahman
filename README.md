@@ -4,7 +4,7 @@
 
 # 👋 Hello
 
-I'm a **Mathematics graduate** from Universitas Pendidikan Indonesia with strong analytical and problem-solving skills, specializing in **Data Analytics** and **Data Science**. Experienced in **data preparation**, **visualization**, **data preprocessing**, and **modeling** using **Excel**, **PostgreSQL**, and **Python** through bootcamp projects and internship. Proven ability to manage operational data with high accuracy and transform datasets into actionable **business insights**.
+I'm a **mathematics graduate** from Universitas Pendidikan Indonesia with strong analytical and problem-solving skills, specializing in Data Analytics and Data Science. Experienced in **data preparation**, **visualization**, and **modeling** using Excel, PostgreSQL, and Python through bootcamp projects. Proven ability to **manage operational data**, **make prediction model** with high accuracy, and transform datasets into actionable **business insights**.
 
 <p align="left">
   <a href="https://wa.me/628877999223" target="_blank">
